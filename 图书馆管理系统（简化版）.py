@@ -9,7 +9,6 @@ class Book:
         self.author = author
         self.available = available
 
-
 class Library:
     def __init__(self):
         self.books = [] # 定义Library为空列表
