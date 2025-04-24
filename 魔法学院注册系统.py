@@ -1,4 +1,4 @@
-# 你是魔法学院的校长（恭喜你），要管理巫师（Wizard）报名参加魔法课程（Course）。
+# 你是魔法学院的校长，要管理巫师（Wizard）报名参加魔法课程（Course）。
 class Wizard:
     def __init__(self,name,level):
         self.name=name

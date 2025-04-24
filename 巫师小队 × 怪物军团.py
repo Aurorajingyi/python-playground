@@ -2,7 +2,7 @@
 import random
 
 # ====================
-# 🧙 巫师类定义 #win+. 输入emoji（wins）
+# 🧙 巫师类定义 # win+. 输入emoji（wins）
 # ====================
 class Wizard:
     def __init__(self, name):
